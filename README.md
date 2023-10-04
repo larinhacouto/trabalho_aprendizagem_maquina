@@ -55,7 +55,7 @@ python questao4.py
 
 
 
-Certifique-se de que o arquivo 'titanic.csv' esteja na pasta 'data' do projeto antes de executar qualquer uma das tarefas.
+Certifique-se de que o arquivo 'titanic.csv' esteja na pasta do projeto antes de executar qualquer uma das tarefas.
 
 ## Contribuição
 
