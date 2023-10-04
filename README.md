@@ -11,7 +11,7 @@ Esta é uma aplicação simples de análise de dados do Titanic, que permite aos
 
 1. Clone este repositório para o seu computador usando o seguinte comando:
 
-git clone https://github.com/herculanodev/aprendizadoDeMaquina/
+git clone https://github.com/larinhacouto/trabalho_aprendizagem_maquina
 
 2. Certifique-se de ter Python 3.x instalado em seu sistema. Você pode verificar digitando `python --version` no terminal.
 
