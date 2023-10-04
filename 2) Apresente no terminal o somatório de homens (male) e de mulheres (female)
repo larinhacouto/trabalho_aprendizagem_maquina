@@ -1,5 +1,0 @@
-2) Apresente no terminal o somatório de homens (male) e de mulheres (female)
-soma_homem = df[df['sex'] == 'male']['sex'].count()
-soma_mulher = df[df['sex'] == 'female']['sex'].count()
-print(f'Somatório de homens: {soma_homem}')
-print(f'Somatório de mulheres: {soma_mulher}')
