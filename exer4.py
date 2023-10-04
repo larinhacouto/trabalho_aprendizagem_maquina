@@ -15,7 +15,9 @@ except FileNotFoundError as e:
 age = data['age']
 fare = data['fare']
 
-# Criamos um gráfico de dispersão
+# Criamos um gráfico de dispersão O parâmetro alpha=0.5 é usado para controlar a transparência dos pontos no gráfico, 
+#tornando os pontos mais visíveis quando sobrepostos.O parâmetro alpha=0.5 é usado para
+#controlar a transparência dos pontos no gráfico, tornando os pontos mais visíveis quando sobrepostos.
 plt.scatter(age, fare, alpha=0.5)
 
 # Definimos rótulos dos eixos e título
